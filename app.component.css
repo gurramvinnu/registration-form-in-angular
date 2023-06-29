@@ -1,0 +1,28 @@
+
+.form{
+    max-width: 350px;
+    margin: auto;
+    
+
+}
+
+.form-group{
+    margin: 10px auto;
+
+}
+
+.actions{
+    display: flex;
+   justify-content: space-between;
+}
+
+.button {
+    background-color: #4CAF50; /* Green */
+    border: none;
+    color: rgb(39, 173, 129);
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+  }
